@@ -1,3 +1,5 @@
+changed to default to 1080p -teiroulac
+
 # Raspberry Pi Webcam
 
 [![CI](https://github.com/geerlingguy/pi-webcam/workflows/CI/badge.svg?branch=master)](https://github.com/geerlingguy/pi-webcam/actions?query=workflow%3ACI)
